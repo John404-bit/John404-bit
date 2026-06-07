@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there
 
-<!--
-**John404-bit/John404-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **software engineering student** at Aarhus University with a strong interest in **embedded systems** and low-level programming.
 
-Here are some ideas to get you started:
+I mainly work with **C++** and **embedded Linux**, and I also have experience with **networking**, **algorithms**, and **digital signal processing**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Tech
+
+- C++, C, Python
+- Embedded Linux, Raspberry Pi
+- Kernel modules & GPIO drivers
+- Git & GitHub
+- LaTeX, MATLAB
+
+---
+
+## Projects
+
+This profile contains:
+
+- University group projects

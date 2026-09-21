@@ -8,7 +8,7 @@ I mainly work with **C++** and **embedded Linux**, and I also have experience wi
 
 ## Tech
 
-- C++, C, Python
+- C++, C, Python, Javascript, HTML, SQL
 - Embedded Linux, Raspberry Pi
 - Kernel modules & GPIO drivers
 - Git & GitHub

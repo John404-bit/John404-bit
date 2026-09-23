@@ -7,9 +7,8 @@ I'm a **4th semester software engineering student** at Aarhus University with a 
 ## Tech
 
 - C++, C, C#, Python, JavaScript, SQL
-- Embedded Linux, Raspberry Pi, ESP32
-- Kernel modules, GPIO, SPI & I2C
-- Networking (TCP/UDP, mesh networks)
+- Raspberry Pi, ESP32
+- Unity
 - .NET, Docker, Git
 - LaTeX, MATLAB
 

@@ -1,20 +1,17 @@
 # Hi there
 
-I'm a **software engineering student** at Aarhus University with a strong interest in **embedded systems** and low-level programming.
-
-I mainly work with **C++** and **embedded Linux**, and I also have experience with **networking**, **algorithms**, and **digital signal processing**.
+I'm a **4th semester software engineering student** at Aarhus University with a strong background in **C/C++**, **embedded systems** and **network programming**.
 
 ---
 
 ## Tech
 
-- C++, C, Python, Javascript, HTML, SQL
-- Embedded Linux, Raspberry Pi
-- Kernel modules & GPIO drivers
-- Git & GitHub
+- C++, C, C#, Python, JavaScript, SQL
+- Embedded Linux, Raspberry Pi, ESP32
+- Kernel modules, GPIO, SPI & I2C
+- Networking (TCP/UDP, mesh networks)
+- .NET, Docker, Git
 - LaTeX, MATLAB
-
----
 
 ## Projects
 
